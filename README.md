@@ -7,7 +7,7 @@ Learn more about my work below!
 
 
 <details>
-  <summary> #### Lotus Finance </summary>
+  <summary> Lotus Finance </summary>
   
   - Languages used: Python, JavaScript, SQL, HTML/CSS
   
@@ -21,11 +21,44 @@ Learn more about my work below!
   
 </details>
 
-#### Warden 
+<details>
+  <summary> Warden </summary>
+  
+  - Languages used: Python, JavaScript
+  
+  - Frameworks/tools used: Flask, Heroku, React Native
+  
+  - [Repository](https://github.com/bradley-tian/Warden)
+  
+  <br/>
+  
+</details>
 
-#### Gitlet: Mini Version-Control System
+<details>
+  <summary> Gitlet: Mini Version-Control System </summary>
+  
+  - Languages used: Java
+  
+  - Frameworks/tools used: JUnit, UNIX, File I/O
+  
+  - [Repository](https://github.com/bradley-tian/gitlet)
+  
+  <br/>
+  
+</details>
 
-#### Ataxx: AI-Powered Board Game
+<details>
+  <summary> Ataxx: AI-Powered Board Game </summary>
+  
+  - Languages used: Java
+  
+  - Frameworks/tools used: JUnit
+  
+  - [Repository](https://github.com/bradley-tian/ataxx)
+  
+  <br/>
+  
+</details>
 
 #### The Enigma Machine
 
