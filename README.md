@@ -110,6 +110,7 @@ Learn more about my work below!
   
 </details>
 
-#### More Abou Me:
+#### More About Me:
 [Personal Website](https://bradley-tian.github.io/)
+<br/>
 [LinkedIn](https://www.linkedin.com/in/bradley-tian-22582118b/)
