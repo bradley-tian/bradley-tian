@@ -60,22 +60,52 @@ Learn more about my work below!
   
 </details>
 
-#### The Enigma Machine
+<details>
+  <summary> The Enigma Machine </summary>
+  
+  - Languages used: Java
+  
+  - Frameworks/tools used: JUnit
+  
+  - [Repository](https://github.com/bradley-tian/Enigma-Simulator)
+  
+  <br/>
+  
+</details>
 
-#### Scheme Language Interpreter
+<details>
+  <summary> Scheme Language Interpreter </summary>
+  
+  - Languages used: Python
+  
+  - [Repository](https://github.com/bradley-tian/Scheme-Interpreter)
+  
+  <br/>
+  
+</details>
 
-#### StockJournal
+<details>
+  <summary> StockJournal </summary>
+  
+  - Languages used: Java
+  
+  - Frameworks/tools used: Yahoo Finance API, Java Swing, File I/O
+  
+  - [Repository](https://github.com/bradley-tian/StockJournal)
+  
+  <br/>
+  
+</details>
 
-#### StockScape
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <summary> StockScape </summary>
+  
+  - Languages used: Java
+  
+  - Frameworks/tools used: Yahoo Finance API, Apache Derby, JDBC, Java Swing
+  
+  - [Repository](https://github.com/bradley-tian/Stockscape)
+  
+  <br/>
+  
+</details>
