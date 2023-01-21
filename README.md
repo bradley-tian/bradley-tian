@@ -5,6 +5,20 @@ Learn more about my work below!
 
 ## Projects
 
+<details>
+  <summary> PlexTech Application Platform </summary>
+  
+  - Languages used: Python, JavaScript, HTML/CSS
+  
+  - Frameworks/tools used: React.js, MaterialUI, Flask, MongoDB, AWS EC2, AWS Amplify
+  
+  - [Backend Repository]([https://github.com/bradley-tian/Lotus_Backend](https://github.com/bradley-tian/plextech-application-backend.git))
+  
+  - [Frontend Repository]([https://github.com/aardisaputra/ta_sim_frontend](https://github.com/bradley-tian/plextech-application-frontend.git))
+ 
+  <br/>
+  
+</details>
 
 <details>
   <summary> Lotus Finance </summary>
