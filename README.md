@@ -1,7 +1,6 @@
 ## Hello!
 
-I'm Bradley, a rising sophomore studying Computer Science and Business Administration at the University of California, Berkeley.
-Learn more about my work below!
+I'm Bradley. Learn more about my work below!
 
 ## Projects
 
