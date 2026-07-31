@@ -1,6 +1,6 @@
 ## Hello!
 
-I'm Bradley. Learn more about my work below!
+I'm Bradley. This repo contains some of my personal projects. Learn more about my work below!
 
 ## Projects
 
